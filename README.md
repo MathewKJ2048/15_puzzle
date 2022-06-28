@@ -9,5 +9,5 @@ The 15 puzzle written in java.
 ```q - quit```  
 
 ## Credits:
-Author: [Mathew K J](https://github.com/MathewKJ2048)
+Author: [Mathew K J](https://github.com/MathewKJ2048)  
 IDE: [BlueJ](https://www.bluej.org/)
